@@ -1,0 +1,80 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: royalblue;
+  background-color: grey;
+  text-align: left;
+  font-size: 100px;
+  font-style: bold;
+  font-family: 'Segoe UI';
+}
+
+#header img {
+  max-width: 500px;
+  background-color:grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h5 {
+  color:darkred;
+  background-color: grey;
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  font-family: 'Segoe UI';
+}
+
+h6 {
+  color:darkred;
+  background-color: grey;
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  font-family: 'Segoe UI';
+}
+
+h7 {
+  color:darkred;
+  background-color: grey;
+  text-align: center;
+  font-size: 50px;
+  font-style: bold;
+  font-family: 'Segoe UI';
+}
+
+#Lewis {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#Lewis img {
+  max-width: 500px;
+}
+
+#Max {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#Max img {
+  max-width: 500px;
+}
+
+#Charles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#Charles img {
+  max-width: 500px;
+}
